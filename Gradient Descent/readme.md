@@ -138,13 +138,14 @@ def gradient_descent(line_parameter, points ,y, alpha):
       print('iteration:',i,'loss:',calc_error(line_parameter,all_points,y),"w1:",w1,"w2:",w2,"bias:",b)
 ```
 
-<img src="Image/i1.png" width="750" height="30">
 
-____
-<img src="Image/i5k.png" width="750" height="15">
 
 
 <img src="Image/gdplot.png" width="300" height="300">
+
+<img src="Image/i1.png" width="750" height="30">
+
+<img src="Image/i5k.png" width="750" height="15">
 
 Iteration|loss|w1|w2|bias
 ---------|----|---|---|---
