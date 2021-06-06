@@ -1,4 +1,4 @@
-<h2>Developing a linear model that fits the data with minimal error using stochastic gradient descent</h2>
+<h2>Developing a linear model to fit the data with minimal error using stochastic gradient descent</h2>
 ___
 
 **Perceptron**
@@ -9,7 +9,7 @@ In short, a perceptron is a single-layer neural network. It consists of four mai
 1. Input values
 2. Weights and bias
 3. Net sum
-4. Activation function.
+4. Activation function
 
 
 **Schematic of a perceptron**
