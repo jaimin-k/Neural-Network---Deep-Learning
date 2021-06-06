@@ -141,6 +141,7 @@ def gradient_descent(line_parameter, points ,y, alpha):
 
 <img src="https://github.com/jaimin-k/Neural-Network-Deep-Learning/blob/main/Gradient%20Descent/Image/i1.PNG?raw=true" width="750" height="30">
 
+<img src="https://github.com/jaimin-k/Neural-Network-Deep-Learning/blob/main/Gradient%20Descent/Image/i5k.PNG?raw=true" width="750" height="15">
 <img src="Image/gdplot.png" width="300" height="300">
 
 
