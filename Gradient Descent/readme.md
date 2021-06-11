@@ -155,6 +155,4 @@ Above are the updated parameters: weights and bias and cross entropy loss over 5
 Thus learning from previously labelled data to develop a linear model that fits the data with minimal error using Schostic gradient adescent algorithm.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oxOvclcOJB4?controls=0" title="" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
 
