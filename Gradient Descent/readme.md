@@ -150,9 +150,10 @@ Iteration|loss|w1|w2|bias
 1|0.70217988|-0.0785|-0.0983|0.0
 5000|0.09182152|-0.4667|-0.7101|9.5602
 
-Above are the updated parameters: weights and bias and cross entropy loss over 5000 iterations of the gradient descent with a learning rate(alpha) set to 0.06.
+Above are the updated parameters: weights and bias ahttps://web.stanford.edu/~jurafsky/slp3/5.pdfnd cross entropy loss over 5000 iterations of the gradient descent with a learning rate(alpha) set to 0.06.
 
 Thus learning from previously labelled data to develop a linear model that fits the data with minimal error using Schostic gradient adescent algorithm.
 
+-REFERENCES: [https://web.stanford.edu/~jurafsky/slp3/5.pdf](Logistic Regression-Daniel Jurafsky & James H. Martin)
 
 
