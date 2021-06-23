@@ -157,6 +157,5 @@ Above are the updated parameters: weights and bias ahttps://web.stanford.edu/~ju
 
 Thus learning from previously labelled data to develop a linear model that fits the data with minimal error using Schostic gradient adescent algorithm.
 
--Reference:  [https://web.stanford.edu/~jurafsky/slp3/5.pdf](Logistic Regression-Daniel Jurafsky & James H. Martin)
-
+-Reference: ([Logistic Regression-Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/5.pdf))
 
