@@ -40,7 +40,7 @@ Mathematically and Graphically represented as:
 
 Our current prediction function returns a probability score between 0 and 1. To map this to a discrete class (true/false) we select a threshold value or tipping point above which we will classify values into class 1 and below which we classify values into class 0.
 
->p≥0.5,class=1
+>p≥0.5,class=1;
 >p<0.5,class=0
 >
 
@@ -157,5 +157,5 @@ Above are the updated parameters: weights and bias ahttps://web.stanford.edu/~ju
 
 Thus learning from previously labelled data to develop a linear model that fits the data with minimal error using Schostic gradient adescent algorithm.
 
--Reference:([Logistic Regression-Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/5.pdf))
+-Reference:[Logistic Regression-Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
